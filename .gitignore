@@ -7,8 +7,7 @@
 /coverage
 
 # production
-# publish the /build folder to gh-pages
-#/build
+/build
 
 # misc
 .DS_Store
